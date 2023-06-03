@@ -16,7 +16,7 @@ from telegram import TelegramError, Update
 from telegram.ext import run_async, CallbackContext
 from telegram.utils.helpers import mention_html
 
-from MikuXProBot import dispatcher
+
 from MikuXProBot.modules.disable import DisableAbleCommandHandler
 from MikuXProBot.events import register as Miku
 from MikuXProBot import telethn as bot
