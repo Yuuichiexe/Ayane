@@ -3,7 +3,7 @@
 import os
 import math
 import requests
-import cloudscraper
+
 import textwrap
 import urllib.request as urllib
 
