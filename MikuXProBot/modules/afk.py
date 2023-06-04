@@ -41,6 +41,7 @@ def strb(redis_string):
 AFK_GROUP = 7
 AFK_REPLY_GROUP = 8
 
+AFKVID = "https://graph.org/file/2887877854c1e347ffe5f.mp4"
 
 def afk(update, context):
     args = update.effective_message.text.split(None, 1)
@@ -56,8 +57,8 @@ def afk(update, context):
     REDIS.set(f'afk_time_{update.effective_user.id}', start_afk_time)
     fname = update.effective_user.first_name
     try:
-        update.effective_message.reply_text(
-            "{} is now Away!".format(fname))
+        update.effective_message.reply_video(
+            AFKVID,caption="{} is now Away!".format(fname))
     except BadRequest:
         pass
 
