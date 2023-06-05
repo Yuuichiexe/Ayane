@@ -100,7 +100,7 @@ REPO_TXT = """
 ABOUT3 = """
 """
 HELP_STRINGS = """
- !
+ 
 """
 
 MIKU_IMG = (
