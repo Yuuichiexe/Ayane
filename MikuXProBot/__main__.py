@@ -87,12 +87,10 @@ buttons = [
                     ], 
     ]
 
-ABOUT1 = """
-*‣ Let's make your group bit effective now*\n\n‣ *Admin Tools*:-\nBasic Admin tools help you to protect and powerup your group. You can ban members, Kick members, Promote someone as admin through commands of bot.\n\n‣ *Greetings*:-\nLets set a welcome message to welcome new users coming to your group by sending /setwelcome [message] to set a welcome message.\n\n‣ *Anti-flood*:-\nUsers/Spammers flooding non-stop? send /setflood [number] And /setfloodmode [mute/ban/tmute] To Stop flooding From Spammers.\n\n‣ *Rules*:-\nDon't want to explain rules to each newbie? Setup rules by sending /setrules [message] to set a Rules.\n\n‣ *Reports*:-\nEnable reporting so that your users can report troublemakers to admins send /reports [on\off] to enable/disable reports.
+ABOUT1 = yo """
 """
 
 ABOUT2 = """
-*‣ Miku support chats*\nJoin My Support Group/Channel for see for report a problem on Miku.
 """
 
 REPO_TXT = """
@@ -103,16 +101,8 @@ REPO_TXT = """
 • Report Any Bugs On Source Code At [Support](t.me/Mikuxsupport)
 """
 
-ABOUT3 = """Hello [{}](tg://user?id={}), My name is *{}*. A Powerful Telegram Group Management Bot built to help you manage Group easily.
-            \n  I can Restrict Users.
-            \n  I can Greet Users with customizable welcome message and even set a group rules
-            \n  I have an advanced Anti-Flood System which will help you to safe group from Spammmer.
-            \n  I can Warn Users until they reach max Warns, with each predefined actions such as Ban, Mute and Kick etc.
-            \n  I have Note Keeping System, Blacklists, And even Predetermined replies on certain keywords.
-            \n  I check Admins Permissions before perform any Command and more Stuffs.
-            \n  I have an advanced Artificial Chatbot System, so can talk with users like humans.
-            \n\n*If you have any Question, You can join Support Chat. My Developer Team will Answer. Check Support Button Below*"""
-
+ABOUT3 = """
+"""
 HELP_STRINGS = """
 Hey [{}](tg://user?id={}) your *Miku* is here! 
 I Help Admins To Manage Their Groups! 
