@@ -60,10 +60,7 @@ def get_readable_time(seconds: int) -> str:
 
     return ping_time
 
-PM_START_TEXT = """
-🌟 ᴋᴏɴɴɪᴄʜɪᴡᴀ `{}` . . . 
 
-"""
 PM_START_TEXT = """
 ────「 [miko]({}) 」────
 ❂ Hayi Hayi! *{}* Senpai,
