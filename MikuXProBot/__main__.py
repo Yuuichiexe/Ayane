@@ -104,23 +104,23 @@ REPO_TXT = """
 """
 
 ABOUT3 = """Hello [{}](tg://user?id={}), My name is *{}*. A Powerful Telegram Group Management Bot built to help you manage Group easily.
-            \n ‣ I can Restrict Users.
-            \n ‣ I can Greet Users with customizable welcome message and even set a group rules
-            \n ‣ I have an advanced Anti-Flood System which will help you to safe group from Spammmer.
-            \n ‣ I can Warn Users until they reach max Warns, with each predefined actions such as Ban, Mute and Kick etc.
-            \n ‣ I have Note Keeping System, Blacklists, And even Predetermined replies on certain keywords.
-            \n ‣ I check Admins Permissions before perform any Command and more Stuffs.
-            \n ‣ I have an advanced Artificial Chatbot System, so can talk with users like humans.
+            \n  I can Restrict Users.
+            \n  I can Greet Users with customizable welcome message and even set a group rules
+            \n  I have an advanced Anti-Flood System which will help you to safe group from Spammmer.
+            \n  I can Warn Users until they reach max Warns, with each predefined actions such as Ban, Mute and Kick etc.
+            \n  I have Note Keeping System, Blacklists, And even Predetermined replies on certain keywords.
+            \n  I check Admins Permissions before perform any Command and more Stuffs.
+            \n  I have an advanced Artificial Chatbot System, so can talk with users like humans.
             \n\n*If you have any Question, You can join Support Chat. My Developer Team will Answer. Check Support Button Below*"""
 
 HELP_STRINGS = """
 Hey [{}](tg://user?id={}) your *Miku* is here! 
 I Help Admins To Manage Their Groups! 
 Main commands available :
- ‣ /help: PM's you this message.
- ‣ /privacy: to view the privacy policy, and interact with your data.
- ‣ /help <module name>: PM's you info about that module.
- ‣ /settings:
+  /help: PM's you this message.
+  /privacy: to view the privacy policy, and interact with your data.
+  /help <module name>: PM's you info about that module.
+  /settings:
    • in PM: will send you your settings for all supported modules.
    • in a group: will redirect you to pm, with all that chat's settings.
 For all command use / or !
