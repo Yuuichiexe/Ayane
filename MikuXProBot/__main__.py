@@ -285,16 +285,9 @@ def start(update: Update, context: CallbackContext):
                 reply_markup=InlineKeyboardMarkup(buttons),
                 parse_mode=ParseMode.HTML,
                 timeout=30,
-            )
-    else:
-        first = update.effective_user.full_name
-        id = update.effective_user.id
-        .reply_photo(
-                random.choice (PHOTO), caption=random.choice(TEXXT).format(
-                id,
-                first,
-                uptime,
             ),
+    
+            
 
             parse_mode=ParseMode.HTML,
             reply_markup=InlineKeyboardMarkup(
