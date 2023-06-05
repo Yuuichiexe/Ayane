@@ -100,8 +100,8 @@ REPO_TXT = """
 ABOUT3 = """
 """
 HELP_STRINGS = """
- 
 """
+
 
 MIKU_IMG = (
       "https://telegra.ph/file/624831b44a6e36370ec70.jpg",
