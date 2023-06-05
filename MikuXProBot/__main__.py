@@ -136,8 +136,7 @@ PHOTO = (
 
 MIKU_DISPACHER_PIC = "https://telegra.ph/file/b1abf69ab7ab4352c71a4.jpg"
 
-DONATE_STRING = """ Adding Me To Your Groups Is Donation For Me """
-
+DONATE_STRING = 
 IMPORTED = {}
 MIGRATEABLE = []
 HELPABLE = {}
