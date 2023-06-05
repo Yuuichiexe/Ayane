@@ -94,11 +94,7 @@ ABOUT2 = """
 """
 
 REPO_TXT = """
-*‣ Dev:*
-• [нσ∂αкα°δ](t.me/h0daka)
-\n*‣ Note:* 
-• If You're Going To Fork This Repo Then Don't Forget To Give a Star 🌟
-• Report Any Bugs On Source Code At [Support](t.me/Mikuxsupport)
+
 """
 
 ABOUT3 = """
