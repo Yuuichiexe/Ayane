@@ -81,26 +81,10 @@ buttons = [
                        InlineKeyboardButton(
                              text="🌟 Help",
                              callback_data="help_back"),
-                        InlineKeyboardButton(
-                             text="🎀 About Me",
-                             callback_data="miku_"),
+                        
                     ], 
     ]
 
-ABOUT1 = yo """
-"""
-
-ABOUT2 = """
-"""
-
-REPO_TXT = """
-
-"""
-
-ABOUT3 = """
-"""
-HELP_STRINGS = """
-"""
 
 
 MIKU_IMG = (
