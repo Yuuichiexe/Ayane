@@ -63,10 +63,11 @@ def get_readable_time(seconds: int) -> str:
 PM_START_TEXT = """
 ────「 [Miku]({}) 」────
 ❂ Hayi Hayi! *{}* Senpai,
-Myself *Itsuki* An Advance Management Bot Built to Manage Your Groups.
+Myself *Ayane* An Advance Management Bot Built to Manage Your Groups.
 ───────────────────────
 ⦿ Alive Since {}
 ───────────────────────
+"""
 
 buttons = [
     [
